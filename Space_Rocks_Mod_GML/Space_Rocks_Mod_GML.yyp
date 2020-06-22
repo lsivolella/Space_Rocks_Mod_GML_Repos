@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "a2073132-1b3e-4679-83cc-9052dab2c5e8",
+            "Value": {
+                "id": "331755d2-77ed-4d7f-a900-42eef0bd5872",
+                "resourcePath": "objects\\obj_camera\\obj_camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ad260c57-a8d4-49d6-94ac-34e8d7abc25a",
             "Value": {
                 "id": "217a3301-4c54-4f1a-84e0-7b251b977bb8",
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "f236dc46-a500-4c61-a051-5a2f7b94f5fa",
+            "Value": {
+                "id": "2556ebed-dec7-4d37-8cfa-829d6a444d54",
+                "resourcePath": "scripts\\spawn_off_camera\\spawn_off_camera.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fc4f2852-e2d1-4d4c-a015-13719b08fc12",
             "Value": {
                 "id": "c8a5af56-0db2-465a-875d-77a1fd1c3bce",
@@ -352,7 +368,7 @@
         }
     ],
     "script_order": [
-        
+        "f236dc46-a500-4c61-a051-5a2f7b94f5fa"
     ],
     "tutorial": ""
 }
